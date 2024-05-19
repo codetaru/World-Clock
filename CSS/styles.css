@@ -34,7 +34,7 @@ select {
 }
 h1 {
   text-align: center;
-  font-family: fantasy;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 36px;
 }
 h2 {
@@ -46,7 +46,7 @@ h2 {
 }
 body {
 background-color: lightcoral;
-font-family: fantasy;
+font-family: 'Times New Roman', Times, serif;
 }
 footer {
   text-align: center;
